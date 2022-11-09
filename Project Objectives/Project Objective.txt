@@ -1,0 +1,20 @@
+Date 25 : October 2022
+Team ID : PNT2022TMID34476
+Project Name : Corporate Employee Attrition Analytics
+
+
+Link:
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2F50_Startups_DataDashboard&action=view&mode=dashboard
+Copy
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2F50_Startups_DataDashboard&action=view&mode=dashboard
+Embed code:
+Width:
+320
+
+
+Height:
+200
+
+
+<iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2F50_Startups_DataDashboard&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
